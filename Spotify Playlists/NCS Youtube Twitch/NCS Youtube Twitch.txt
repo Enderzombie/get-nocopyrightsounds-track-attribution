@@ -1,13 +1,3 @@
-# get-nocopyrightsounds-track-attribution
-Get copyright references of the tracks from NoCopyrightSounds. This repository was created for https://www.youtube.com/@enderzombie_exoversium/. The contents of this repository are not liable. If data is wrong and you get copyright problems, no liability will be taken. Use therefore at your own risk!
-
-## Usage:
-To use music from [NoCopyrightSounds](https://ncs.io) you have to add a certain attribution text where you use the music. In this repository these attribution texts of some tracks are visible.
-
-## `get-nocopyrightsounds-track-attribution/Spotify Playlists`:
-This folder contains certain public playlists from [Enderzombie](https://open.spotify.com/user/31xnul3mwln2rwwu42yc4uounb3a), which exclusively contain music from [NoCopyrightSounds](https://ncs.io). In the respective playlist folders there is a general `.txt` file, which contains all attribution texts of the tracks used in the playlist and the Spotify playlist link. Furthermore, there is a subfolder `/tracks`, which contains a `.txt` file for each track with the attribution text.
-
-## NCS Youtube Twitch (see `get-nocopyrightsounds-track-attribution/Spotify Playlists/NCS Youtube Twitch/NCS Youtube Twitch.txt`):
 Song: Arcando - When I'm With You [NCS Release] Music provided by NoCopyrightSounds Free Download/Stream: http://ncs.io/ Watch: http://youtu.be/
 Song: Andromedik & Pirapus - Ride or Die (ft. Indy Skies) [NCS Release] Music provided by NoCopyrightSounds Free Download/Stream: http://ncs.io/AP_RideOrDie Watch: http://ncs.lnk.to/AP_RideOrDieAT/youtube
 Song: ANGELPLAYA - PSYCHOPATHIC [NCS Release] Music provided by NoCopyrightSounds Free Download/Stream: http://ncs.io/PSYCHOPATHIC Watch: http://youtu.be/
@@ -46,10 +36,3 @@ Song: VØJ & ATSMXN - Blade Fury [NCS Release] Music provided by NoCopyrightSoun
 Song: Warriyo - Mortals (feat. Laura Brehm) [NCS Release] Music provided by NoCopyrightSounds Free Download/Stream: http://ncs.io/mortals Watch: http://youtu.be/yJg-Y5byMMw
 
 https://open.spotify.com/playlist/7mPT5BfmMD4FAOB0JkBXmw?si=ed7aaec6da1d4cbb
-
-*(Stand: 02.06.2023)*
-
-# Future:
-This repository will be updated regularly when there are new tracks in the respective playlists. In the future there will probably be more playlists. In addition, this repository may also offer a program to automatically receive these attribution texts via song link.
-
-# [https://discord.gg/AcjPRvzPyx](https://discord.gg/AcjPRvzPyx)
